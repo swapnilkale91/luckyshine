@@ -1,0 +1,9 @@
+node_modules
+dist
+coverage
+.sonar
+.nyc_output
+*.log*
+.vscode
+.DS_Store
+deploy/helm/templates/.DS_Store
